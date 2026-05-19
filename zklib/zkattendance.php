@@ -99,5 +99,3 @@ function zkclearattendance($self) {
 ?>
 ---
 
-⚡ Ringkas:  
-- `reverseHex` sekarang dicek dengan `!function_exists`.
